@@ -8,6 +8,6 @@ A fun and interactive joke generator built using HTML, CSS, and JavaScript! This
 •⁠  ⁠API integration with fetch()
 
 ## 🛠️ Technologies Used
-•⁠  ⁠*HTML* – Structure of the webpage
-•⁠  ⁠*CSS* – Styling for a clean and responsive look
-•⁠  ⁠*JavaScript* – Handles API requests and DOM manipulation
+•⁠  ⁠##HTML## – Structure of the webpage
+•⁠  ⁠##CSS## – Styling for a clean and responsive look
+•⁠  ⁠##JavaScript## – Handles API requests and DOM manipulation
